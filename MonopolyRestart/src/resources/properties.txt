@@ -1,0 +1,41 @@
+GO,1,0,false,true
+Cupboard Under The Stairs,2,60,false,false
+Ministry of Magic,3,0,false,true
+Shrieking Shack,4,60,false,false
+Attacked By Fluffy,5,0,false,true
+Hogwarts Express,6,200,false,false
+Hagrids Hut,7,100,false,false
+Deathly Hallow,8,0,false,true
+Hog's Head Inn,9,100,false,false
+Honey Dukes,10,120,false,false
+Azkaban,11,0,false,true
+Just Visiting,12,0,false,false
+The Burrow,13,140,false,false
+Owl Post,14,150,false,false
+The Leaky Cauldron,15,160,false,false
+Quidditch Pitch,16,160,false,false
+Durmstrang Ship,17,200,false,false
+Weasly Wizard Wheezes,18,180,false,false
+Ministry Of Magic,19,0,false,true
+Shell Cottage,20,180,false,false
+Great Hall,21,200,false,false
+Free Socks,22,0,false,true
+The Three Broomsticks,23,220,false,false
+Deathly Hallow,24,0,false,true
+Armstrong Tower,25,220,false,false
+Flourish And Blotts,26,240,false,false
+Flying Car,27,220,false,false
+Ollivanders Wand Shop,28,260,false,false
+12 Grimmauld Place,29,260,false,false
+Floo Network,30,150,false,false
+Chamber Of Secrets,31,280,false,false
+Go To Azkaban,32,0,false,true
+LeStrange Vault,33,300,false,false
+Hogwarts Library,34,300,false,false
+Ministry Of Magic,35,0,false,true
+Dumbledore's Office,36,320,false,false
+Knight Bus,37,200,false,false
+Deathly Hallows,38,0,false,false
+Room of Requirement,39,350,false,false
+Crashed into Whomping Willow,40,75,false,false
+Gringotts Wizarding Bank,41,400,false,false
